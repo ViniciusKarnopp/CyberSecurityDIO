@@ -1,3 +1,9 @@
+##Criação de um ransomware em python.
+##Para roda-lo, inicie o encrypter. 
+##Logo após iniciar o encrypter.py, o teste.txt passará a se chamar teste.txt.ransonwaretroll
+##o teste.txt fica ilegivel
+##rodando o decrypter.py, o teste.txt volta para o estado inicial
+
 import os
 import pyaes
 
